@@ -1,0 +1,15 @@
+build
+obj
+object
+objects
+target
+tmp
+temp
+
+.settings
+.project
+.cproject
+
+
+*.swp
+*.bak
