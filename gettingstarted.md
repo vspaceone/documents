@@ -75,5 +75,9 @@ Alles wieder an seinen Platz zurücklegen! Edding wieder zurück. Aufräumen. Au
 ## GitHub Organisation
 Um unsere Projekte zu verwalten verwenden wir eine [Github Organisation](https://github.com/vspaceone). Schreib einfach mal auf die Mailingliste wenn du dort gerne Mitglied werden möchtest. Aus verständlichen Gründen würde wir dich davor natürlich gerne mal kennenlernen.
 
+## CCC
+Natürlich sind auch einige unserer Mitglieder auch im CCC tätig. Wir sind eine chaosnahe Truppe und auch in entsprechenden Liste gelistet.
 
+### Chaostreff
+Seit Sommer 2016 sind auch beim CCC als sogenannter Chaostreff eingetrafen. Der findet jeden Dienstag Abend ab 19:00 Uhr statt. Jeder ist hier herzlich eingeladen.
 
