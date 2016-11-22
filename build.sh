@@ -8,3 +8,5 @@ echo "Building Beitragsordnung"
 pandoc -V geometry:"top=2cm, bottom=1.5cm, left=3cm, right=3cm" beitragsordnung.md -o beitragsordnung.pdf
 
 
+echo "Building GettingStarted"
+pandoc -V geometry:"top=2cm, bottom=1.5cm, left=3cm, right=3cm" gettingstarted.md -o gettingstarted.pdf
