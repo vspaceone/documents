@@ -1,4 +1,4 @@
-% Satzung des vspace.one (Draft)
+% Satzung
 % 
 % 14.Juni 2016
 

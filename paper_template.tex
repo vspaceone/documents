@@ -4,13 +4,24 @@
 \usepackage{ngerman}
 \usepackage[utf8]{inputenc}
 \usepackage{hyperref}
-
+\usepackage{fancyhdr}
+\usepackage[left=2cm,right=2cm,top=1.5cm,bottom=1.5cm,includeheadfoot,a4paper]{geometry}
 \usepackage{wrapfig}
 \usepackage{fontspec}
 \setmainfont{Ubuntu}
 \setmonofont{Ubuntu Mono}
 
+\pagestyle{fancy}
 
+
+\fancyhead{}
+\fancyfoot{}
+\fancyfoot[L]{rev: \GITAbrHash}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\include{vc}
 
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
@@ -22,7 +33,6 @@
 	{\scshape\LARGE vspace.one e.V.\par}
 	\vspace{1cm}
 	{\scshape\Large $title$ \par}
-
 	\vfill
 
 % Bottom of the page
