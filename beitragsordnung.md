@@ -1,4 +1,6 @@
-# Beitragsordnung
+% Beitragsordnung
+% 
+% 19.Juli 2016
 
 Die Mitgliederversammlung des Vereins vspace.one e.V. hat auf der Mitgliederversammlung  am 19.Juli 2016 folgende Beitragsordnung beschlossen:
 
@@ -12,7 +14,7 @@ Die Mitgliederversammlung des Vereins vspace.one e.V. hat auf der Mitgliedervers
 
 Beschlossen am 19.Juli 2016 einstimmig durch die Gründungerveranstaltung.
 
-## Historie:
+Historie:
 Version 1: Gründungsveranstaltung am 14.Juni 2016
 
 Version 2: Mitgliederversammlung am 19.Juli 2016

@@ -1,16 +1,20 @@
-# Satzung des vspace.one (Draft)
+% Satzung des vspace.one (Draft)
+% 
+% 14.Juni 2016
+
 Beschlossen auf der Gründungsversammlung am 14. Juni 2016 in Villingen-Schwenningen.
+
 
 Vorbemerkung: Aus Vereinfachungsgründen und zur Vermeidung von Wortwiederholungen gelten auch für weibliche Mitglieder nach üblichem Sprachgebrauch männliche Bezeichnungen.
 
-## Präambel
+# Präambel {.unnumbered}
 Aufgrund des Fortschreitens der modernen Technologie ist das Fördern des Wissens über den Einsatz und die Funktion dieser Technologien elementar. Der vspace.one e.V. soll einen Raum zur Wissensförderung schaffen, in welchem jedes Mitglied unabhängig der Herkunft, des Geschlechts und der religiösen Einstellung teilhaben kann und sich mit seinen persönlichen Fähigkeiten und Interessen einbringen soll.
 
-## §1 - Name, Sitz, Geschäftsjahr
+# §1 - Name, Sitz, Geschäftsjahr {.unnumbered}
 1. Der Verein führt den Namen “vspace.one” und soll in das Vereinsregister eingetragen werden. Nach der Eintragung führt er den Namen “vspace.one e.V.”
 1. Der Verein hat seinen Sitz in Villingen-Schwenningen. Geschäftsjahr des Vereins ist das Kalenderjahr.
 
-## §2 - Zweck, Gemeinnützigkeit
+# §2 - Zweck, Gemeinnützigkeit {.unnumbered}
 1. Der Verein ist politisch und religiös neutral und Dritten gegenüber ungebunden.
 1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung. Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
 1. Zweck des Vereins ist die Förderung der Volksbildung, welche durch Bildungs- und Fortbildungsmaßnahmen sowie durch interdisziplinären Wissensaustausch durchgeführt wird. Vorrangig geförderte Wissensgebiete sind der  kreative, weder industriell noch erwerbswirtschaftlich fokussierten Einsatz neuartiger computergestützter Technologien (wie zum Beispiel aber nicht ausschließlich 3D-Druck, CNC, Internet der Dinge und Robotik), der Elektrotechnik und Elektronik sowie auf dem Gebiet der Reparatur und Wartung. Dieser Satzungszweck wird verwirklicht durch Bildungs- und Fortbildungsmaßnahmen sowie durch interdisziplinären
@@ -24,7 +28,7 @@ Aufgrund des Fortschreitens der modernen Technologie ist das Fördern des Wissen
 1. Mittel des Vereins dürfen nur für die satzungsgemäßen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins. Es darf keine Person durch Ausgaben, die dem Zweck des Vereins fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
 1. Alle Vereinsämter werden ehrenamtlich ausgeübt.
 
-## §3 - Mitgliedschaft, Eintritt der Mitglieder
+# §3 - Mitgliedschaft, Eintritt der Mitglieder {.unnumbered}
 1. Ordentliche Vereinsmitglieder können natürliche und juristische Personen, Handelsgesellschaften, nicht rechtsfähige Vereine sowie Anstalten und Körperschaften des öffentlichen Rechts werden.
 1. Die Beitrittserklärung erfolgt schriftlich oder per E-Mail gegenüber dem Vorstand.
 1. Über die Annahme der Beitrittserklärung entscheidet der Vorstand. Die Mitgliedschaft beginnt mit der Annahme der Beitrittserklärung.
@@ -32,37 +36,37 @@ Aufgrund des Fortschreitens der modernen Technologie ist das Fördern des Wissen
 1. Der Austritt wird durch schriftliche Willenserklärung gegenüber dem Vorstand vollzogen.
 1. Die Mitgliederversammlung kann solche Personen, die sich besondere Verdienste um den Verein oder um die von ihm verfolgten satzungsgemäßen Zwecke erworben haben, zu Ehrenmitgliedern ernennen. Ehrenmitglieder haben alle Rechte eines ordentlichen Mitglieds. Sie sind von Beitragsleistungen befreit.
 
-## §4 - Rechte und Pflichten der Mitglieder
+# §4 - Rechte und Pflichten der Mitglieder {.unnumbered}
 1. Die Mitglieder sind berechtigt, die Leistungen des Vereins in Anspruch zu nehmen.
 1. Die Mitglieder sind verpflichtet, die satzungsgemäßen Zwecke des Vereins zu unterstützen und zu fördern. Sie sind verpflichtet, die festgesetzten Beiträge zu zahlen.
 
-## § 5 - Ausschluss eines Mitglieds
+# §5 - Ausschluss eines Mitglieds {.unnumbered}
 1. Ein Mitglied kann durch Beschluss des Vorstandes ausgeschlossen werden, wenn es das Ansehen des Vereins schädigt, seinen Beitragsverpflichtungen nachhaltig nicht nachkommt oder wenn ein sonstiger wichtiger Grund vorliegt. Der Vorstand muss dem auszuschließenden Mitglied den Beschluss in schriftlicher Form unter Angabe von Gründen mitteilen und ihm auf Verlangen eine Anhörung gewähren.
 1. Gegen den Beschluss des Vorstandes ist innerhalb einer Frist von zwei Monaten nach Zugang des Ausschliessungsbeschlusses die Anrufung der Mitgliederversammlung zulässig. Bis zum Beschluss der Mitgliederversammlung ruht die Mitgliedschaft. Die Mitgliederversammlung entscheidet endgültig über den Ausschluss.
 
-## §6 - Mitgliedsbeiträge
+# §6 - Mitgliedsbeiträge {.unnumbered}
 1. Der Verein erhebt einen Beitrag. Das Nähere regelt eine Beitragsordnung, die von der Mitgliederversammlung beschlossen wird.
 1. Bei Erwerbsminderung kann ein verminderter Beitragssatz gemäß Beitragsordnung festgesetzt werden. Hierüber entscheidet der Vorstand.
 
-## §7 - Organe des Vereins
+# §7 - Organe des Vereins {.unnumbered}
 1. Organe des Vereins sind:
     1. der Vorstand
     1. die Mitgliederversammlung
 
-## §8 - Der Vorstand
+# §8 - Der Vorstand {.unnumbered}
 1. Der Vorstand besteht aus mindestens zwei und höchstens fünf Personen.
 1. Jedes Vorstandsmitglied ist einzelvertretungsberechtigt im Sinne des § 26 BGB bei Rechtsgeschäften bis zu einem Höchstbetrag von 500 EURO.  
 1. Bei Rechtsgeschäften über 500 EURO ist die Vertretung durch zwei Vorstandsmitglieder erforderlich. 
 1. Über die interne Aufgabenverteilung entscheidet der Vorstand die der  Mitgliederversammlung bekannt gegeben wird.
 
-## §9 - Amtsdauer des Vorstandes
+# §9 - Amtsdauer des Vorstandes {.unnumbered}
 Der Vorstand wird von der Mitgliederversammlung auf die Dauer von zwei Jahren, vom Tage der Wahl an gerechnet, gewählt. Der Vorstand bleibt jedoch bis zu seiner Austragung aus dem Vereinsregisterblatt im Amt. Jedes Vorstandsmitglied ist einzeln zu wählen. Wählbar sind nur Vereinsmitglieder. Fällt mit dem Ausscheiden eines Vorstandsmitgliedes die Anzahl der Vorstandsmitglieder unter zwei Personen, so ist unverzüglich eine außerordentliche Mitgliederversammlung einzuberufen, bei der mindestens ein neues Vorstandsmitglied gewählt werden muss.
 
-## §10 - Beschlussfassung des Vorstandes
+# §10 - Beschlussfassung des Vorstandes {.unnumbered}
 Der Vorstand fasst seine Beschlüsse im Allgemeinen in Vorstandssitzungen. Vorstandssitzungen werden schriftlich oder fernmündlich einberufen und finden mindestens quartalsmässig statt. In jedem Fall ist die Einberufungsfrist von einer Woche einzuhalten. Der Mitteilung einer Tagesordnung bedarf es nicht. Der Vorstand ist beschlussfähig, wenn mindestens zwei Vorstandsmitglieder anwesend sind. Bei der Beschlussfassung entscheidet die Mehrheit der abgegebenen gültigen Stimmen. Bei Stimmengleichheit gilt der Antrag als abgelehnt. Die Beschlüsse des Vorstandes sind zu Beweiszwecken schriftlich festzuhalten. Die Niederschrift soll Ort und Zeit der Vorstandssitzung, die Namen der Teilnehmer, die gefassten Beschlüsse und die Abstimmungsergebnisse enthalten. Ein Vorstandsbeschluss kann auf schriftlichem Wege gefasst werden, wenn alle Vorstandsmitglieder ihre Zustimmung zu der zu beschließenden Regelung erklären.
 Die Vereinigung mehrerer Vorstandsämter auf eine Person ist unzulässig.
 
-## §11 - Die Mitgliederversammlung
+# §11 - Die Mitgliederversammlung {.unnumbered}
 1. Oberstes Beschlussorgan ist die Mitgliederversammlung. Ihrer Beschlussfassung unterliegen alle in dieser Satzung oder Gesetz vorgesehenen Gegenstände, insbesondere
     1. die Genehmigung des Finanzberichtes,
     1. die Entlastung des Vorstandes,
@@ -83,14 +87,14 @@ Die Vereinigung mehrerer Vorstandsämter auf eine Person ist unzulässig.
 1. Die Mitgliederversammlung wird von einem vom Vorstand bestimmten Versammlungsleiter geleitet.
 1. Auf Antrag eines Mitglieds ist geheim abzustimmen. Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertigen, das vom Versammlungsleiter und dem Schriftführer zu unterzeichnen ist. Das Protokoll ist allen Mitgliedern zugänglich zu machen.
 
-## §12 - Auflösung des Vereins und Anfallberechtigung
+# §12 - Auflösung des Vereins und Anfallberechtigung {.unnumbered}
 1. Die Auflösung des Vereins kann nur in einer Mitgliederversammlung mit der festgelegten Stimmenmehrheit beschlossen werden.
 1. Die Mitgliederversammlung bestimmt mindestens zwei gemeinsam vertretungsberechtigte Liquidatoren. Die vorstehenden Vorschriften gelten entsprechend für den Fall, dass der Verein aus einem anderen Grund aufgelöst wird oder seine Rechtsfähigkeit verliert.
 1. Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an die Wau Holland Stiftung mit Sitz in Hamburg welche es unmittelbar und ausschließlich für gemeinnützige oder mildtätige Zwecke zu verwenden hat. Sollte diese Stiftung bei Auflösung des Vereins nicht oder nicht mehr gemeinnützig sein, fällt das Vereinsvermögen an eine andere von der Mitgliederversammlung zu bestimmende steuerbegünstigte Körperschaft, die das Vermögen zur Förderung des Wohlfahrtswesens zu verwenden hat.
 
 Die vorstehende Satzung wurde in der Gründungsversammlung vom 14. Juni 2016 erreicht.
 
-## Gründungsmitglieder
+# Gründungsmitglieder {.unnumbered}
 
 
 Nils Krause (Unterschrift):
@@ -105,23 +109,23 @@ Alexander Votteler (Unterschrift):
 
 - - - 
 
-Philipp Jalowietzki (Unterschrift):    
+Philipp Jalowietzki (Unterschrift):
 
 - - - 
 
-Florian Schlegel (Unterschrift):    
+Florian Schlegel (Unterschrift):
 
 - - - 
 
-Maximilian Burger (Unterschrift):     
+Maximilian Burger (Unterschrift):
 
 - - - 
 
-Maximilian Noppel (Unterschrift):    
+Maximilian Noppel (Unterschrift):
 
 - - - 
 
-Kai Sickeler (Unterschrift):         
+Kai Sickeler (Unterschrift):
 
 - - - 
 
