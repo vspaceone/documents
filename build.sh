@@ -1,6 +1,6 @@
 #!/bin/bash
 
-options='-V papersize:A4,fontsize:12pt --smart --template=template.tex'
+options='-V papersize:A4,fontsize:12pt --smart --template=paper_template.tex'
 
 echo "Building Satzung"
 pandoc ${options} --toc satzung.md -o satzung.pdf
