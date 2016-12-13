@@ -55,6 +55,9 @@ Wir betreiben einen Freifunk Router im Space. Über den besteht ein offener Inte
 ## Klingel
 Im vspace-Netz kann unter [http:\\klingel](http:\\klingel) eine einfach Weboberfläche über die man einen Klingelton im Space auslösen kann.
 
+## Bauteile
+Unter [http://teile.vspace.one/](http://teile.vspace.one/) betreiben wir eine Bauteile Datenbank. In der ist eine große Zahl unserer Bauteile katalogisiert. Wo die Teile zu finden sind ist über das Feld "Regalfach" erkennbar. Das bezeichnet eines der Kleinteilregale im Maschinenraum. Außerdem gibt es Teile, bei denen nicht alle in das Kleinteilregal gepasst haben. Wo es noch gibt ist über die Eigenschaft "Lagerort" erkennbar. Meistens bezeichnet das wohl einer der Kisten die durchnummeriert unter dem Projektboxen-Regal auf der Brücke stehen.
+
 # Arbeitsplätze
 Alles wieder an seinen Platz zurücklegen! Edding wieder zurück. Aufräumen. Auf der Brücke steht ein Kehrwisch. Bitte den Raum wieder ordentlich verlassen.
 
