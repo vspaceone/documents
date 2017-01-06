@@ -10,10 +10,11 @@ git log -1 --format="format:\
 echo "Building Satzung"
 pandoc ${options} --toc satzung.md -o satzung.pdf
 
-
 echo "Building Beitragsordnung"
 pandoc ${options} beitragsordnung.md -o beitragsordnung.pdf
 
-
 echo "Building GettingStarted"
 pandoc ${options} --toc gettingstarted.md -o gettingstarted.pdf
+
+echo "Building Jahresbericht 2016"
+pandoc ${options} --toc jahresbericht_2016.md -o jahresbericht_2016.pdf
