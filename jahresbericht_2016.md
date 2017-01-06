@@ -27,3 +27,28 @@ Insgesamt also ein sehr spaßiger und lehrreicher Abend.
 
 ## 1. Lötworkshop
 Am 10.Dezember haben wir unseren ersten Lötworkshop mit Kindern und Jugendlichen durchgeführt. Wir haben von Hackerspace Stuttgart (Shack) 20 Blinkenrockt-Lötbausätze zu Arbeit mit Kindern und Jugendlich erhalten. Über mehrere Zeitungsartikel im Herbst 2016 haben für den ersten Lötworkshop geworben. Dieser wurden dann schließlich kostenlos für 3 Kinder durchgeführt. Gemeinsam haben wir 3 Stunden mit dem Erklären von Elektronik, Löttechnik und unserer Tätigkeit verbracht. Getränke und Knabbersachen wurden uns zur Verfügung gestellt. Das Feedback war super, auch von den Eltern. "Das es sowas endlich in Villingen gibt, [...]" war ein Ausdruck. Alle drei Jugendlichen wollen gerne wieder kommen und haben genau wie eine Mutter schon nach weiteren Workshops und Bastelprojekten für Daheim gefragt. Für den ersten beworbenen Workshop also erfolgreich.
+
+## Bauteilspende aus Furtwangen
+Im Winter kam dann über Tim noch ein weiteres erfreuliches Ergniss in unseren Space Alltag. Die Hochschule Furtwangen hat drei Schränke mit Bauteilen aussortiert. Und uns zur Verfügung gestellt. Der rote Toyota Yaris war bis unterdas Dach vollgestopft mit Kartons und Rollen von Widerstanden. Eine Herausforderung für uns alle die noch immer andauert, das alles zu sortieren. In diesem Rahmen haben wir auch unseren Bauteile-"Shop" in Betrieb genommen.
+
+
+# Projekte
+Im vergangenen Jahr wurden viele Projekt im vspace umgesetzt. Wir möchten hier nur einige kurz anreißen.
+
+## luxbox
+Das wohl erste Projekt dieses Jahr war wohl das Logo von Michael und die dazugehörige Lichtsteuerung. Das Logo macht echt was her. Die Hardware ist dabei absolut up-to-date nach aktuellen Ansprüchen. Verwendet wurde eine ESP und die WS2812er LED Strips. Der Server läuft auf einem kleinen NanoPi auf unserer Serverbank. Die ersten Integrationsprojekt in das Luxbox System sind auch bereits gestartet.
+
+## SpaceAPI
+Eines der ersten Projekte eine Hackerspaces ist in der Regel der Türstatus und damit die SpaceAPI. Diese wurde in unserem Fall mit Java implementiert und auf unserem vserver deployed. Der Zugriff geschieht über Telnet oder den entsprechenden Schalter im Space. Auch die Temperatur und Luftfeuchtigkeit wird jetzt schon im auf der der SpaceAPI bereitgestellt.
+
+## Bauteileshop
+Im Rahmen den Bauteilespende der Hochschule Furtwangen haben wir eine WooCommerceseite einerichtet über die Bauteile des Vereins und der Mitglieder verwaltet werden können. Die Katalogisierung ist aber noch in vollem Gange.
+
+
+
+# Anschaffungen
+## CNC Fräse von Michael
+Michael hat sich tatsächlich eine ziemlich coole CNC Fräse gekauft. Mit der sind wir fleißig am fräsen. Beispielsweise einen Staubabsaugung für eben diese Fräse oder einen Stand für unseren kleinen VirtualisierungHost im Space
+
+
+
