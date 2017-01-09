@@ -1,7 +1,7 @@
 #!/bin/bash
 
-options='-V papersize:A4,fontsize:12pt --smart --template=paper_template.tex --latex-engine=xelatex'
-options='-V papersize:A5,fontsize:12pt --smart --template=paper_template.tex --latex-engine=xelatex'
+options=-V papersize:A4,fontsize:12pt --smart --template=paper_template.tex --latex-engine=xelatex
+options=-V papersize:A5,fontsize:12pt --smart --template=paper_template.tex --latex-engine=xelatex
 
 
 general = paper_template.tex

@@ -44,11 +44,3 @@ Eines der ersten Projekte eine Hackerspaces ist in der Regel der Türstatus und 
 ## Bauteileshop
 Im Rahmen den Bauteilespende der Hochschule Furtwangen haben wir eine WooCommerceseite einerichtet über die Bauteile des Vereins und der Mitglieder verwaltet werden können. Die Katalogisierung ist aber noch in vollem Gange.
 
-
-
-# Anschaffungen
-## CNC Fräse von Michael
-Michael hat sich tatsächlich eine ziemlich coole CNC Fräse gekauft. Mit der sind wir fleißig am fräsen. Beispielsweise einen Staubabsaugung für eben diese Fräse oder einen Stand für unseren kleinen VirtualisierungHost im Space
-
-
-
