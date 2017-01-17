@@ -44,14 +44,16 @@ Eines der ersten Projekte eines Hackerspaces ist in der Regel der Türstatus und
 ## Bauteileshop
 Im Rahmen den Bauteilespende der Hochschule Furtwangen haben wir eine WooCommerce-Seite eingerichtet die zur Verwaltung der Bauteile dient. Die Katalogisierung ist aber noch in vollem Gange.
 
-<<<<<<< Updated upstream
-=======
-
 
 # Anschaffungen
 ## CNC Fräse von Michael
 Michael hat sich eine ziemlich coole CNC Fräse gekauft. Mit der sind wir fleißig am fräsen. Beispielsweise einen Staubabsaugung für eben diese Fräse oder einen Stand für unseren kleinen VirtualisierungHost im Space
 
 
+# Danksagungen
+## Getränkewart Kai
+Ich möchte mich im Namen von uns allen bei Kai Sickeler bedanken, der im vergangenen Jahr fleißig auf unseren Kühlschrank geachtet hat. Das war weiß Gott nicht immer eine leichte Aufgabe bei unserem Getränkekonsum. Vielen Dank dafür.
 
->>>>>>> Stashed changes
+## Vorstand Alex
+Auch wenn er in letzter Zeit nicht mehr so oft im Space anzutreffen war, weil es inzwischen in Ilmenau studiert, hat er uns doch alle mit seiner Faszination angesteckt. Was war anfangs besonders wichtig, ist es aber auch immer noch. Wir verstehen alle, dass es wenig Sinn macht Vorstand eines Vereines in 400km Entfernung zu sein. Deshalb wird er seine Tätigkeit als Vorstand vorerst niederlegen. Danke ihm dennoch  herzlich für seinen Einsatz im vergangenen Jahr. Vielen Dank.
+
