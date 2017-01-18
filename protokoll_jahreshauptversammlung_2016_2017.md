@@ -26,11 +26,11 @@ Die Mitgliederversammlung ist Beschlussfähig.
 Der Vorgelegte Finanzbericht (siehe Anhang Finanzbericht) wurde einstimmig und ohne Enthaltungen unter den Anwesenden genehmigt.
 
 ## TOP 1 Entlastung des Vorstands
-Dem bisherigen Vorstand - namentlich Nils Krause, Florian Schlegel, Maximilian Noppel, Michael Castano sowie Alexander Votteler - 
+Dem bisherigen Vorstand - namentlich Nils Krause, Maximilian Noppel, Michael Castano sowie Alexander Votteler - 
 wurde unter den Anwesenden einstimmig und ohne Enthaltungen eine Einwandfreie Tätigkeit zugesprochen. Damit wird dieser Entlastet.
 
 ## TOP 2 Neuwahl und Abberufung des Vorstands
-Alexander Votteler tritt als Vorstand aufgrund vom entfernten Wohnort ab. Nils Krause, Florian Schlegel, Maximilian Noppel und Michael Castano
+Alexander Votteler tritt als Vorstand aufgrund vom entfernten Wohnort ab. Nils Krause, Maximilian Noppel und Michael Castano
 bleiben bis zu den Neuwahlen bei der nächsten ordentlichen jährlichen Mitgliederversammlung im Vorstand.
 
 Folgende Mitglieder kandidieren als Vorstand:
