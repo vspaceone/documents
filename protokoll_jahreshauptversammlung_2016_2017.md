@@ -3,11 +3,18 @@
 % 17.01.2017
 
 Name des Vereins: vspace.one e.V.
+
 Tag der Versammlung: 17.01.2017, 19:00
+
 Beginn und Ende der Versammlung: 19:00, 20:15
+
 Ort der Versammlung: vspace.one, Wilhelmbinder-Str. 19, Villingen
-Anwesende: Nils Krause, Florian Schlegel, Maximilian Noppel, Michael Castano, Kai Sickeler, Alexander Votteler, Lukas Timmermann, Jan-Eric Niedermüller, Damian Jesionek
+
+Anwesende: Nils Krause, Florian Schlegel, Maximilian Noppel, Michael Castano, Kai Sickeler, Alexander Votteler, Lukas
+Timmermann, Jan-Eric Niedermüller, Damian Jesionek
+
 Versammlungsleiter: Maximilian Noppel
+
 Protokollführer: Damian Jesionek
 
 # Einberufung der Mitgliederversammlung
