@@ -6,11 +6,6 @@ options=-V papersize:A5,fontsize:12pt --smart --template=paper_template.tex --la
 
 general = paper_template.tex
 
-git log -1 --format="format:\
-		\\gdef\\GITAbrHash{%h}\
-		\\gdef\\GITAuthorDate{%ad}\
-		\\gdef\\GITAuthorName{%an}" >> vc.tex
-
 all: satzung.pdf beitragsordnung.pdf gettingstarted.pdf jahresbericht_2016.pdf protokoll_jahreshauptversammlung_2016_2017.pdf
 
 satzung.pdf: $(general) satzung.md
