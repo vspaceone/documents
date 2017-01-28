@@ -68,7 +68,7 @@ Nils Krause, Maximilian Noppel und Michael Castano
 bleiben bis zu den Neuwahlen bei der nächsten ordentlichen jährlichen Mitgliederversammlung im Vorstand.
 
 Folgende Mitglieder kandidieren als Vorstand:
-Damian Jesionek, geboren am 20.Juni.1996, Hornberger Str. 13, 78048 Villigen-Schwenningen
+Damian Jesionek, geboren am 20.September.1996, Hornberger Str. 13, 78048 Villigen-Schwenningen
 
 Damian Jesionek wurde einstimmig und ohne Enthaltungen unter den Anwesenden zum Vorstand gewählt. Er nimmt die Wahl an.
 
