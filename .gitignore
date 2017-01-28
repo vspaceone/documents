@@ -6,6 +6,8 @@ target
 tmp
 temp
 
+
+.idea
 .settings
 .project
 .cproject

@@ -25,8 +25,6 @@ Nutzung für alle erlaubt. Die Nutzung dieser Geräte ist für alle erlaubt. Nat
 ## Give Away
 Zum Mitnehmen. Geräte und Teile mit Give Away Aufklebern sind zu verschenken und dürfen mit nach Hause genommen werden. Natürlich ist das verscherbeln auf Ebay und Co untersagt. Auch Give Away Teile sind keine Selbstverständlichkeit sondern ein Entgegenkommen und es sollte mit dem entsprechenden Respekt damit umgegangen werden.
 
-
-
 # Projektboxen
 Um unsere Gegenstände einigermaßen zu ordnen verwenden wir sogenannte Projektboxen. Diese stehen in einem Regel. Aufden Boxen befinden sich auch wieder Lables, die aussagen wem die Box gehört und wie der Inhalt verwendet werden darf. Dass alles was man aus ein Public Box verwendet wieder seinen Weg zurück finden sollten ist denken wir selbstverständlich. Boxen gibt es in der untersten Regaletage. Einfach bedienen, Label und Name drauf.
 
@@ -53,10 +51,13 @@ Eines unsere Projekte, das luxbox.io Projekt verwaltet die Lichter im Space. Der
 Wir betreiben einen Freifunk Router im Space. Über den besteht ein offener Internetzugang. Wir gehören damit zum Bezirk Freiburg. Näheres zum Freifunk gibt direkt bei den [Freiburgern](https://freiburg.freifunk.net/).
 
 ## Klingel
-Im vspace-Netz kann unter [http:\\klingel](http:\\klingel) eine einfach Weboberfläche über die man einen Klingelton im Space auslösen kann.
+Im vspace-Netz kann unter [http:\\klingel](http:\\klingel) eine einfach Weboberfläche über die man einen Klingelton im Space auslösen kann. Mittelfristig soll das noch auch Hardwareknopf aufgebaut werden. Projekt?
 
 ## Bauteile
-Unter [http://teile.vspace.one/](http://teile.vspace.one/) betreiben wir eine Bauteile Datenbank. In der ist eine große Zahl unserer Bauteile katalogisiert. Wo die Teile zu finden sind ist über das Feld "Regalfach" erkennbar. Das bezeichnet eines der Kleinteilregale im Maschinenraum. Außerdem gibt es Teile, bei denen nicht alle in das Kleinteilregal gepasst haben. Wo es noch gibt ist über die Eigenschaft "Lagerort" erkennbar. Meistens bezeichnet das wohl einer der Kisten die durchnummeriert unter dem Projektboxen-Regal auf der Brücke stehen.
+Unter [http://teile.vspace.one/](http://teile.vspace.one/) betreiben wir eine Bauteile Datenbank. In der ist eine 
+große Zahl unserer Bauteile katalogisiert. Wo die Teile zu finden sind ist über das Feld "Regalfach" erkennbar. Das bezeichnet eines der Kleinteilregale im Maschinenraum. Außerdem gibt es Teile, bei denen nicht alle in das Kleinteilregal gepasst haben. Wo es noch mehr gibt ist über die Eigenschaft "Lagerort" erkennbar. Meistens bezeichnet das wohl einer der Kisten die durchnummeriert unter dem Projektboxen-Regal auf der Brücke stehen. Manche Teile gibt es auch nicht in den Regalen sondern nur in den Kisten.
+
+Wenn jeder hier auch seine Bauteile einträgt können wir vermeiden alles doppelt und dreifach zu kaufen und können alles zusammen nutzen. Das funktioniert natürlich nur wenn auch jeder etwas dazu beisteuert. Widerstände und Kondensatoren haben wir auf jedenfall reichlich von der Hochschule Furtwangen gespendet bekommen und müssen wir erstmal nicht mehr kaufen.
 
 # Arbeitsplätze
 Alles wieder an seinen Platz zurücklegen! Edding wieder zurück. Aufräumen. Auf der Brücke steht ein Kehrwisch. Bitte den Raum wieder ordentlich verlassen.
