@@ -39,7 +39,7 @@ wurden fristgerecht zur Versammlung eingeladen. Somit ist sie satzungsgemäß ei
 Die Mitgliederversammlung ist Beschlussfähig.
 
 # Anzahl der Stimmberechtigten Personen
-8 Stimmberechtigte Personen sind Anwesend.
+8 Stimmberechtigte Personen sind Anwesend zusätzlich ist 1 stimmberechtigte Person per Skype dabei.
 
 # Tagesordnungspunkte
 
@@ -62,7 +62,7 @@ Kasse:                                266,30 Euro
 Dem Vorstand - namentlich Nils Krause, Maximilian Noppel, Michael Castano sowie Alexander Votteler - wurde unter den Anwesenden einstimmig und ohne Enthaltungen eine Einwandfreie Tätigkeit zugesprochen. Damit wird dieser Entlastet.
 
 ## TOP 2 Neuwahl und Abberufung des Vorstands
-Alexander Votteler tritt als Vorstand aufgrund vom entfernten Wohnort ab. 
+Alexander Votteler tritt als Vorstand aufgrund vom entfernten Wohnort zurück. 
 
 Nils Krause, Maximilian Noppel und Michael Castano
 bleiben bis zu den Neuwahlen bei der nächsten ordentlichen jährlichen Mitgliederversammlung im Vorstand.
