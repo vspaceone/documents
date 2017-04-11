@@ -1,5 +1,5 @@
 
-FROM ubuntu:14.04
+FROM ubuntu:latest
 
 MAINTAINER Maximilian Noppel
 
@@ -8,9 +8,18 @@ RUN apt-get update && apt-get install -y \
 	git \
 	pandoc \
 	texlive-full \
-	build-essential 
+	build-essential
 
+RUN apt-get update && apt-get install -y \
+	ttf-ubuntu-font-family \
+	lmodern \
+	texlive-xetex \
+	fontconfig
+
+RUN locale-gen de_DE.UTF-8
+ENV LANG='de_DE.UTF-8' LANGUAGE='de_DE' LC_ALL='de_DE.UTF-8'
+ENV DEBIAN_FRONTEND noninteractive
 
 WORKDIR /builddir
-RUN bash build.sh
-RUN cat vc.txt
+#ENTRYPOINT file paper_template.tex
+ENTRYPOINT bash build.sh && cat vc.txt

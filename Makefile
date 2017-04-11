@@ -20,17 +20,8 @@ gettingstarted.pdf: $(general) gettingstarted.md
 	echo "Building GettingStarted"
 	pandoc ${options} --toc gettingstarted.md -o gettingstarted.pdf
 
-jahresbericht_2016.pdf: $(general) jahresbericht_2016.md
-	echo "Building Jahresbericht 2016"
-	pandoc ${options} --toc jahresbericht_2016.md -o jahresbericht_2016.pdf
-
-protokoll_jahreshauptversammlung_2016_2017.pdf: $(general) protokoll_jahreshauptversammlung_2016_2017.md
-	echo "Building Protokoll der Jahreshauptversammlung 2016/2017"
-	pandoc ${options} --toc protokoll_jahreshauptversammlung_2016_2017.md -o protokoll_jahreshauptversammlung_2016_2017.pdf
 
 clean:
 	rm satzung.pdf
 	rm beitragsordnung.pdf
 	rm gettingstarted.pdf
-	rm jahresbericht_2016.pdf
-	rm protokoll_jahreshauptversammlung_2016_2017.pdf
