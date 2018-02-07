@@ -6,7 +6,7 @@ options=-V papersize:A5,fontsize:12pt --smart --template=paper_template.tex --la
 
 general = paper_template.tex
 
-all: satzung.pdf beitragsordnung.pdf gettingstarted.pdf jahresbericht_2016.pdf protokoll_jahreshauptversammlung_2016_2017.pdf
+all: satzung.pdf beitragsordnung.pdf gettingstarted.pdf jahresbericht_2017.pdf jahresbericht_2016.pdf protokoll_jahreshauptversammlung_2016_2017.pdf
 
 satzung.pdf: $(general) satzung.md
 	echo "Building Satzung"
@@ -19,6 +19,18 @@ beitragsordnung.pdf: $(general) beitragsordnung.md
 gettingstarted.pdf: $(general) gettingstarted.md
 	echo "Building GettingStarted"
 	pandoc ${options} --toc gettingstarted.md -o gettingstarted.pdf
+
+jahresbericht_2016.pdf: $(general) jahresbericht_2016.md
+	echo "Building jahresbericht_2016"
+	pandoc ${options} --toc jahresbericht_2016.md -o jahresbericht_2016.pdf
+
+protokoll_jahreshauptversammlung_2016_2017.pdf: $(general) protokoll_jahreshauptversammlung_2016_2017.md
+	echo "Building protokoll_jahreshauptversammlung_2016_2017"
+	pandoc ${options} --toc protokoll_jahreshauptversammlung_2016_2017.md -o protokoll_jahreshauptversammlung_2016_2017.pdf
+
+jahresbericht_2017.pdf: $(general) jahresbericht_2017.md
+	echo "Building jahresbericht_2017"
+	pandoc ${options} --toc jahresbericht_2017.md -o jahresbericht_2017.pdf
 
 
 clean:
