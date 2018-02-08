@@ -1,16 +1,15 @@
 
 FROM ubuntu:latest
 
-MAINTAINER Maximilian Noppel
+LABEL maintainer="github.com/djesionek"
 
 RUN apt-get update && apt-get install -y \
-  vim \
+	vim \
 	git \
 	pandoc \
 	texlive-full \
-	build-essential
-
-RUN apt-get update && apt-get install -y \
+	build-essential \
+	locales \
 	ttf-ubuntu-font-family \
 	lmodern \
 	texlive-xetex \
@@ -20,6 +19,6 @@ RUN locale-gen de_DE.UTF-8
 ENV LANG='de_DE.UTF-8' LANGUAGE='de_DE' LC_ALL='de_DE.UTF-8'
 ENV DEBIAN_FRONTEND noninteractive
 
-WORKDIR /builddir
-#ENTRYPOINT file paper_template.tex
-ENTRYPOINT bash build.sh && cat vc.txt
+RUN mkdir /build
+WORKDIR /build
+ENTRYPOINT bash build.sh && cat vc.tex
