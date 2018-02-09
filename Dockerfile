@@ -21,4 +21,4 @@ ENV DEBIAN_FRONTEND noninteractive
 
 RUN mkdir /build
 WORKDIR /build
-ENTRYPOINT bash build.sh && cat vc.tex
+ENTRYPOINT bash build.sh

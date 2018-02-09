@@ -1,0 +1,62 @@
+\documentclass[a4paper]{scrlttr2}
+\usepackage{lmodern}
+\usepackage{parskip}
+\usepackage{graphicx}
+\usepackage{eurosym}
+\usepackage{ngerman}
+%\usepackage[utf8x]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+%\usepackage[left=2cm,right=2cm,top=1.5cm,bottom=1.5cm,includeheadfoot,a4paper]{geometry}
+\usepackage{wrapfig}
+\usepackage{fontspec}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{tikz}
+\usepackage[bottom=1cm]{geometry}
+\setmainfont{Ubuntu}
+\setmonofont{Ubuntu Mono}
+
+
+\setkomavar{fromname}{vspace.one e.V.}
+\setkomavar{fromaddress}{Ludwig-Weißer-Straße 3 \\ 78112 St. Georgen}
+\setkomavar{fromphone}{0176 31642695}
+\setkomavar{fromemail}{vorstand@lists.vspace.one}
+
+\setkomavar{signature}{Der Vorstand} % Ausnahme, sonst fromname
+
+\begin{document}
+\begin{letter}{ An \\ Mitglieder des vspace.one e.V. und interessierte  }
+\begin{tikzpicture}[remember picture,overlay]
+    \node [xshift=165mm, yshift=-35mm] at (current page.north west) {\includegraphics[width=50mm]{pics/logo.eps}};
+\end{tikzpicture}
+\KOMAoptions{fromphone=true,fromemail=true,fromfax=false}
+\setkomavar{subject}{Einladung zur Jahreshauptversammlung}
+\opening{Liebe Haecksen und Hacker,}
+
+der Vorstand lädt euch hiermit herzlich zur Jahreshauptversammlung des Jahres 2018 am 
+17. Februar um 16:00Uhr in den Vereinsräumen ein.
+Eingeladen sind alle Mitglieder und auch interessierte.
+
+\medskip
+
+\textbf{Tagesordnungspunkte} 
+\begin{enumerate}
+    \item Genehmigung des Finanzberichtes
+    \item Entlastung des Vorstandes
+    \item Neuwahl und Abberufung des Vorstandes
+    \item Vorstellung des Jahrestätigkeitsbericht
+    \item Vorschlag zur Satzungsänderung §3 Absatz 5
+    \item Vorschlag einer Geräteordnung
+    \item Information zur Serverumstellung
+    \item Diskussion LDAP
+    \item Sonstiges
+\end{enumerate}
+
+\bigskip
+
+\closing{Mit freundlichen Grüßen,}
+
+\end{letter}
+\end{document}

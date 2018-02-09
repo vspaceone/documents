@@ -2,39 +2,56 @@
 
 output=out/
 
-options=-V papersize:A4,fontsize:12pt --smart --template=paper_template.tex --latex-engine=xelatex
-#options=-V papersize:A5,fontsize:12pt --smart --template=paper_template.tex --latex-engine=xelatex
+options=-V papersize:A4,fontsize:12pt --smart --latex-engine=xelatex
 
-general = paper_template.tex
+paper_template = --template=paper_template.tex
+letter_template = --template=letter_template.tex
 
-all: satzung.pdf beitragsordnung.pdf gettingstarted.pdf jahresbericht_2017.pdf jahresbericht_2016.pdf protokoll_jahreshauptversammlung_2016_2017.pdf
+all: out/satzung.pdf out/beitragsordnung.pdf out/gettingstarted.pdf out/jahresbericht_2017.pdf out/jahresbericht_2016.pdf out/protokoll_jahreshauptversammlung_2016_2017.pdf out/einladung_JHV18.pdf
 
-satzung.pdf: $(general) satzung.md
+################################
+# Satzung
+################################
+
+out/satzung.pdf: dokumente/satzung/satzung.md
 	echo "Building Satzung"
-	pandoc ${options} --toc satzung.md -o ${output}satzung.pdf
+	pandoc ${options} ${paper_template} --toc dokumente/satzung/satzung.md -o ${output}satzung.pdf
 
-beitragsordnung.pdf: $(general) beitragsordnung.md
+out/beitragsordnung.pdf: dokumente/satzung/beitragsordnung.md
 	echo "Building Beitragsordnung"
-	pandoc ${options} beitragsordnung.md -o ${output}beitragsordnung.pdf
+	pandoc ${options} ${paper_template} dokumente/satzung/beitragsordnung.md -o ${output}beitragsordnung.pdf
 
-gettingstarted.pdf: $(general) gettingstarted.md
-	echo "Building GettingStarted"
-	pandoc ${options} --toc gettingstarted.md -o ${output}gettingstarted.pdf
+################################
+# Jahresberichte
+################################
 
-jahresbericht_2016.pdf: $(general) jahresbericht_2016.md
+out/jahresbericht_2016.pdf: dokumente/jahresberichte/jahresbericht_2016.md
 	echo "Building jahresbericht_2016"
-	pandoc ${options} --toc jahresbericht_2016.md -o ${output}jahresbericht_2016.pdf
+	pandoc ${options} ${paper_template} --toc dokumente/jahresberichte/jahresbericht_2016.md -o ${output}jahresbericht_2016.pdf
 
-protokoll_jahreshauptversammlung_2016_2017.pdf: $(general) protokoll_jahreshauptversammlung_2016_2017.md
-	echo "Building protokoll_jahreshauptversammlung_2016_2017"
-	pandoc ${options} --toc protokoll_jahreshauptversammlung_2016_2017.md -o ${output}protokoll_jahreshauptversammlung_2016_2017.pdf
-
-jahresbericht_2017.pdf: $(general) jahresbericht_2017.md
+out/jahresbericht_2017.pdf: dokumente/jahresberichte/jahresbericht_2017.md
 	echo "Building jahresbericht_2017"
-	pandoc ${options} --toc jahresbericht_2017.md -o ${output}jahresbericht_2017.pdf
+	pandoc ${options} ${paper_template} --toc dokumente/jahresberichte/jahresbericht_2017.md -o ${output}jahresbericht_2017.pdf
 
+################################
+# Sonstige
+################################
+
+out/gettingstarted.pdf: dokumente/gettingstarted.md
+	echo "Building GettingStarted"
+	pandoc ${options} ${paper_template} --toc dokumente/gettingstarted.md -o ${output}gettingstarted.pdf
+
+
+out/protokoll_jahreshauptversammlung_2016_2017.pdf:  dokumente/protokoll_jahreshauptversammlung_2016_2017.md
+	echo "Building protokoll_jahreshauptversammlung_2016_2017"
+	pandoc ${options} ${paper_template} --toc dokumente/protokoll_jahreshauptversammlung_2016_2017.md -o ${output}protokoll_jahreshauptversammlung_2016_2017.pdf
+
+
+out/einladung_JHV18.pdf: dokumente/einladung_JHV18.tex
+	echo "Building einladung_JHV18"
+	xelatex dokumente/einladung_JHV18.tex -o ${output}einladung_JHV18.pdf
+	mv einladung_JHV18.pdf ${output}
+	rm -f *.aux *.log *.out
 
 clean:
-	rm satzung.pdf
-	rm beitragsordnung.pdf
-	rm gettingstarted.pdf
+	rm -f ${output}*.pdf ${output}*.aux ${output}*.log ${output}*.out

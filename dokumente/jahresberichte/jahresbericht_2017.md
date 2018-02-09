@@ -55,17 +55,13 @@ Räumlichkeiten "schmackhafter" und "cooler" zu machen.
 # Zahlen
 ZAHLEN VOM LETZEN JAHR!!! FIXEN!!!
 
-Aktuell haben wir 11 Vereinsmitglieder.
+Aktuell haben wir TODO Vereinsmitglieder.
 
-Auf der Mailingliste "Public" sind 34 Emailadressen registriert die an Diskussionen und Infos teilhaben.
+Auf der Mailingliste "Public" sind 49 Emailadressen registriert die an Diskussionen und Infos teilhaben.
 
-Wir hatten ca. 11% von 24 Stunden üer 7 Tage geöffnet. Das ist wirklich bemerkenswert.
 
-2016 wurden 2 Zeitungsartikel und 1 Video über uns publiziert.
 
-Wir wurden im Logbuch Netzpolitik Podcast erwähnt. Allerdings wurde Villingen als Willingen ausgesprochen.
-
-Auf Twitter haben wir 35 Follower, 11 Likes und 32 Tweets.
+Auf Twitter haben wir 47 Follower, TODO Likes und 54 Tweets. 
 
 
 # Danksagungen
