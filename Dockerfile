@@ -4,16 +4,14 @@ FROM ubuntu:latest
 LABEL maintainer="github.com/djesionek"
 
 RUN apt-get update && apt-get install -y \
-	vim \
 	git \
+	make \
 	pandoc \
+	biber \
 	texlive-full \
-	build-essential \
 	locales \
 	ttf-ubuntu-font-family \
-	lmodern \
-	texlive-xetex \
-	fontconfig
+	lmodern 
 
 RUN locale-gen de_DE.UTF-8
 ENV LANG='de_DE.UTF-8' LANGUAGE='de_DE' LC_ALL='de_DE.UTF-8'

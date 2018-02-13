@@ -3,7 +3,9 @@
 % Maximilian Noppel
 
 # Einleitung
-TODO
+2017 ist das erste volle Jahr des Vereins. Mitglieder wurden gewonnen, Projekte entwickelt 
+und unsere Räume verschönert. Und es gibt noch sehr viel mehr Ideen, die darauf warten realisiert 
+zu werden.
 
 # Tätigkeiten
 
@@ -34,7 +36,7 @@ Anlaufstelle für Interessierte bieten. Wir waren mit 8 Leute auf dem Congress v
 Außerdem erschien dazu ein Artikel im Schwarzwälder Boten.
 
 # Projekte
-TODO
+
 
 # Anschaffungen
 Dieses Jahr wurde eine größere Anschaffung, ein 3D Drucker für die Räumlichkeiten des
