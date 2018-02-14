@@ -63,6 +63,13 @@ Auf der Mailingliste "Public" sind 49 Emailadressen registriert die an Diskussio
 
 Auf Twitter haben wir 47 Follower, TODO Likes und 54 Tweets. 
 
+## Getränkestatistik
+
+| | Pfand erhalten | Pfand bezahlt | Mate | Fritz | Bier | Wasser |`
+| --- | --- | --- | --- | --- | --- | --- |
+| Kasten | - | - | 6 | 6 | 1 | 1 |
+| Euro | 79.59 | 55.85 | 86.96 |98.19 | 13.99 | 4.41 |
+
 
 # Danksagungen
 ## Getränkewart Kai
