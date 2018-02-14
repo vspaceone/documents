@@ -73,5 +73,13 @@ out/einladung_JHV18.pdf: dokumente/einladung_JHV18.tex
 	@$(RM) *.aux *.log *.out
 
 clean:
-	@$(ECHO) "\t[Clean]"
-	@$(RM) ${OUTPUT_DIR}*.pdf ${OUTPUT_DIR}*.aux ${OUTPUT_DIR}*.log ${OUTPUT_DIR}*.out
+	@$(ECHO) "\t[Clean]\t*.pdf"
+	@$(RM) ${OUTPUT_DIR}*.pdf
+	@$(ECHO) "\t[Clean]\t*.aux"
+	@$(RM) ${OUTPUT_DIR}*.aux 
+	@$(ECHO) "\t[Clean]\t*.log"
+	@$(RM) ${OUTPUT_DIR}*.log 
+	@$(ECHO) "\t[Clean]\t*.out"
+	@$(RM) ${OUTPUT_DIR}*.out
+	@$(ECHO) "\t[Clean]\tmake.log"
+	@$(RM) make.log
