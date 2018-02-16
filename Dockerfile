@@ -8,7 +8,8 @@ RUN apt-get update && apt-get install -y \
 	git \
 	pandoc \
 	texlive-full \
-	build-essential
+	build-essential \
+  apt-utils
 
 RUN apt-get update && apt-get install -y \
 	ttf-ubuntu-font-family \
