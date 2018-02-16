@@ -79,3 +79,7 @@ umliegenden Räumlichkeiten durchzuführen. Entsprechende Gespräche mit dem
 Vermieter fanden bereits statt und wurden sehr positiv aufgefasst.
 
 # Fotos
+
+![Bauteilpakete für den 34. Chaos Communication Congress](pics/2017_twitter/bauteilpakete.jpg){#id .class width=11cm}
+
+![Umgestaltung](pics/2017_twitter/umgestaltung.jpg){#id .class width=11cm}
