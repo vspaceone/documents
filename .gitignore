@@ -16,3 +16,9 @@ temp
 *.swp
 *.bak
 *.pdf
+
+*.aux
+*.log
+*.out
+
+vc.tex
