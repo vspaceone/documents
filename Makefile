@@ -26,7 +26,7 @@ RM=$(RM_CMD) $(RM_FLAGS)
 
 MAKE_LOG=make.log
 
-all: out/satzung.pdf out/beitragsordnung.pdf out/gettingstarted.pdf out/jahresbericht_2017.pdf out/jahresbericht_2016.pdf out/protokoll_jahreshauptversammlung_2016_2017.pdf out/einladung_JHV18.pdf
+all: out/satzung.pdf out/beitragsordnung.pdf out/gettingstarted.pdf out/jahresbericht_2017.pdf out/jahresbericht_2016.pdf out/protokoll_jahreshauptversammlung_2016_2017.pdf out/einladung_JHV18.pdf out/finanzbericht_2017.pdf
 
 ################################
 # Satzung
@@ -72,13 +72,19 @@ out/einladung_JHV18.pdf: dokumente/einladung_JHV18.tex
 	mv einladung_JHV18.pdf ${OUTPUT_DIR}
 	@$(RM) *.aux *.log *.out
 
+out/finanzbericht_2017.pdf: dokumente/finanzberichte/finanzbericht_2017.tex
+	@$(ECHO) "\t[Latex]\tBuilding finanzbericht_2017"
+	@$(LATEX_ENGINE) dokumente/finanzberichte/finanzbericht_2017.tex -o ${OUTPUT_DIR}finanzbericht_2017.pdf &>> $(MAKE_LOG)
+	mv finanzbericht_2017.pdf ${OUTPUT_DIR}
+	@$(RM) *.aux *.log *.out
+
 clean:
 	@$(ECHO) "\t[Clean]\t*.pdf"
 	@$(RM) ${OUTPUT_DIR}*.pdf
 	@$(ECHO) "\t[Clean]\t*.aux"
-	@$(RM) ${OUTPUT_DIR}*.aux 
+	@$(RM) ${OUTPUT_DIR}*.aux
 	@$(ECHO) "\t[Clean]\t*.log"
-	@$(RM) ${OUTPUT_DIR}*.log 
+	@$(RM) ${OUTPUT_DIR}*.log
 	@$(ECHO) "\t[Clean]\t*.out"
 	@$(RM) ${OUTPUT_DIR}*.out
 	@$(ECHO) "\t[Clean]\tmake.log"

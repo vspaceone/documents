@@ -1,10 +1,10 @@
 % Jahresbericht 2017
 %
-% Maximilian Noppel
+% Maximilian Noppel, Damian Jesionek
 
 # Einleitung
-2017 ist das erste volle Jahr des Vereins. Mitglieder wurden gewonnen, Projekte entwickelt 
-und unsere Räume verschönert. Und es gibt noch sehr viel mehr Ideen, die darauf warten realisiert 
+2017 ist das erste volle Jahr des Vereins. Mitglieder wurden gewonnen, Projekte entwickelt
+und unsere Räume verschönert. Und es gibt noch sehr viel mehr Ideen, die darauf warten realisiert
 zu werden.
 
 # Tätigkeiten
@@ -35,9 +35,6 @@ IT- Security und vergleichbarem. Wir konnten hier ein Assembly anmelden und eine
 Anlaufstelle für Interessierte bieten. Wir waren mit 8 Leute auf dem Congress vertreten.
 Außerdem erschien dazu ein Artikel im Schwarzwälder Boten.
 
-# Projekte
-
-
 # Anschaffungen
 Dieses Jahr wurde eine größere Anschaffung, ein 3D Drucker für die Räumlichkeiten des
 vspace.one e.V. in Villingen getätigt. Damit konnte Mitgliedern und sonstigen Gäste die
@@ -55,20 +52,18 @@ richtige spacige Atmosphäre zu sorgen. Das soll auch dabei helfen Jugendlichen 
 Räumlichkeiten "schmackhafter" und "cooler" zu machen.
 
 # Zahlen
-ZAHLEN VOM LETZEN JAHR!!! FIXEN!!!
-
-Aktuell haben wir TODO Vereinsmitglieder.
+Aktuell haben wir 11 Vereinsmitglieder.
 
 Auf der Mailingliste "Public" sind 49 Emailadressen registriert die an Diskussionen und Infos teilhaben.
 
+2017 wurde ein Zeitungsartikel über uns veröffentlicht.
 
-
-Auf Twitter haben wir 47 Follower, TODO Likes und 54 Tweets. 
+Auf Twitter haben wir 47 Follower, und 54 Tweets.
 
 
 # Danksagungen
 ## Getränkewart Kai
-TODO
+An dieser Stelle soll ein herzliches Dankeschön an unseren Getränkewart Kai stehen der sich auch dieses Jahr wieder hervorragend um unsere Getränk gekümmert hat. Dankeschön!
 
 # Fazit
 Das Jahr war ingesamt etwas ruhiger. Das rührt aber vorallem auch daher, dass wir es
