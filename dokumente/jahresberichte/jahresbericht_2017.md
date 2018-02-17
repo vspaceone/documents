@@ -96,8 +96,36 @@ Vermieter fanden bereits statt und wurden sehr positiv aufgefasst.
 ![Umgestaltung](pics/2017_twitter/umgestaltung.jpg){#id .class width=11cm}
 
 ![Projekt Blackout](pics/2017_projekte/Blackout1.jpg){#id .class width=11cm}
+
 ![Schwarzlicht](pics/2017_projekte/Blackout2.jpg){#id .class width=11cm}
+
 ![Schwarzlicht](pics/2017_projekte/Blackout3.jpg){#id .class width=11cm}
 
 ![Neopixel Lampe](pics/2017_projekte/NeopixelLamp1.jpg){#id .class width=11cm}
+
 ![Neopixel Lampe](pics/2017_projekte/NeopixelLamp2.jpg){#id .class width=11cm}
+
+![Seidenstrassen Kapsel](pics/2017_projekte/kapselseidenstrasse.jpg){#id .class width=11cm}
+
+
+![](pics/2017_projekte/1.jpg){#id .class width=11cm}
+
+![](pics/2017_projekte/2.jpg){#id .class width=11cm}
+
+![](pics/2017_projekte/3.jpg){#id .class width=11cm}
+
+![](pics/2017_projekte/4.jpg){#id .class width=11cm}
+
+![](pics/2017_projekte/5.jpg){#id .class width=11cm}
+
+![](pics/2017_projekte/6.jpg){#id .class width=11cm}
+
+![](pics/2017_projekte/7.jpg){#id .class width=11cm}
+
+![](pics/2017_projekte/8.jpg){#id .class width=11cm}
+
+![](pics/2017_projekte/9.jpg){#id .class width=11cm}
+
+![](pics/2017_projekte/10.jpg){#id .class width=11cm}
+
+![](pics/2017_projekte/11.jpg){#id .class width=11cm}
