@@ -11,7 +11,7 @@ RUN apt-get update && apt-get install -y \
 	texlive-full \
 	build-essential \
   apt-utils \
-	locals
+	locales
 
 RUN apt-get update && apt-get install -y \
 	ttf-ubuntu-font-family \
