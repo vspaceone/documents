@@ -17,7 +17,7 @@ Aufgrund des Fortschreitens der modernen Technologie ist das Fördern des Wissen
 # §2 - Zweck, Gemeinnützigkeit {.unnumbered}
 1. Der Verein ist politisch und religiös neutral und Dritten gegenüber ungebunden.
 1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung. Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
-1. Zweck des Vereins ist die Förderung der Volksbildung, welche durch Bildungs- und Fortbildungsmaßnahmen sowie durch interdisziplinären Wissensaustausch durchgeführt wird. Vorrangig geförderte Wissensgebiete sind der  kreative, weder industriell noch erwerbswirtschaftlich fokussierten Einsatz neuartiger computergestützter Technologien (wie zum Beispiel aber nicht ausschließlich 3D-Druck, CNC, Internet der Dinge und Robotik), der Elektrotechnik und Elektronik sowie auf dem Gebiet der Reparatur und Wartung. Dieser Satzungszweck wird verwirklicht durch Bildungs- und Fortbildungsmaßnahmen sowie durch interdisziplinären
+1. Zweck des Vereins ist die Förderung der Volksbildung, welche durch Bildungs- und Fortbildungsmaßnahmen sowie durch interdisziplinären Wissensaustausch durchgeführt wird. Vorrangig geförderte Wissensgebiete sind der kreative, weder industriell noch erwerbswirtschaftlich fokussierte Einsatz neuartiger computergestützter Technologien (wie zum Beispiel aber nicht ausschließlich 3D-Druck, CNC, Internet der Dinge und Robotik), der Elektrotechnik und Elektronik sowie auf dem Gebiet der Reparatur und Wartung. Dieser Satzungszweck wird verwirklicht durch Bildungs- und Fortbildungsmaßnahmen sowie durch interdisziplinären
     1. Wissensaustausch, insbesondere durch
     1. regelmäßige öffentliche Treffen sowie Vorträge, Workshops, Diskussions- und Informationsveranstaltungen
     1. Jugendarbeit
@@ -33,7 +33,7 @@ Aufgrund des Fortschreitens der modernen Technologie ist das Fördern des Wissen
 1. Die Beitrittserklärung erfolgt schriftlich oder per E-Mail gegenüber dem Vorstand.
 1. Über die Annahme der Beitrittserklärung entscheidet der Vorstand. Die Mitgliedschaft beginnt mit der Annahme der Beitrittserklärung.
 1. Die Mitgliedschaft endet durch Austrittserklärung, durch Tod von natürlichen Personen oder durch Auflösung und Erlöschen von juristischen Personen, Handelsgesellschaften, nicht rechtsfähigen Vereinen sowie Anstalten und Körperschaften des öffentlichen Rechts oder durch Ausschluss; die Beitragspflicht für das laufende Geschäftsquartal bleibt hiervon unberührt.
-1. Der Austritt wird durch schriftliche Willenserklärung gegenüber dem Vorstand vollzogen.
+1. Der Austritt wird durch schriftliche Willenserklärung mit einer Frist von mindestens einem Monat zum Monatsende gegenüber dem Vorstand vollzogen. 
 1. Die Mitgliederversammlung kann solche Personen, die sich besondere Verdienste um den Verein oder um die von ihm verfolgten satzungsgemäßen Zwecke erworben haben, zu Ehrenmitgliedern ernennen. Ehrenmitglieder haben alle Rechte eines ordentlichen Mitglieds. Sie sind von Beitragsleistungen befreit.
 
 # §4 - Rechte und Pflichten der Mitglieder {.unnumbered}
@@ -129,4 +129,8 @@ Kai Sickeler (Unterschrift):
 
 - - - 
 
+
+# Änderungen {.unnumbered}
+## Version vom 11.September 2018:  {.unnumbered}
+Änderungen von der außerordentlichen Mitgliederversammlung am 24.Juli 2018 an §2 Abs.3 sowie §3 Abs. 5.
 
