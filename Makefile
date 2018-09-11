@@ -26,7 +26,7 @@ RM=$(RM_CMD) $(RM_FLAGS)
 
 MAKE_LOG=make.log
 
-all: out/satzung.pdf out/beitragsordnung.pdf out/gettingstarted.pdf out/jahresbericht_2017.pdf out/jahresbericht_2016.pdf out/protokoll_jahreshauptversammlung_2016_2017.pdf out/einladung_JHV18.pdf out/finanzbericht_2017.pdf
+all: out/satzung.pdf out/beitragsordnung.pdf out/gettingstarted.pdf out/jahresbericht_2017.pdf out/jahresbericht_2016.pdf out/protokoll_jahreshauptversammlung_2016_2017.pdf out/einladung_JHV18.pdf out/finanzbericht_2017.pdf out/protokoll_jahreshauptversammlung_2017_2018.pdf
 
 ################################
 # Satzung
@@ -64,6 +64,10 @@ out/gettingstarted.pdf: dokumente/gettingstarted.md
 out/protokoll_jahreshauptversammlung_2016_2017.pdf:  dokumente/protokoll_jahreshauptversammlung_2016_2017.md
 	@$(ECHO) "\t[Pandoc]\tBuilding protokoll_jahreshauptversammlung_2016_2017"
 	@$(PANDOC) ${PAPER_TEMPLATE} --toc dokumente/protokoll_jahreshauptversammlung_2016_2017.md -o ${OUTPUT_DIR}protokoll_jahreshauptversammlung_2016_2017.pdf &>> $(MAKE_LOG)
+
+out/protokoll_jahreshauptversammlung_2017_2018.pdf:  dokumente/protokoll_jahreshauptversammlung_2016_2017.md
+	@$(ECHO) "\t[Pandoc]\tBuilding protokoll_jahreshauptversammlung_2016_2017"
+	@$(PANDOC) ${PAPER_TEMPLATE} --toc dokumente/protokoll_jahreshauptversammlung_2017_2018.md -o ${OUTPUT_DIR}protokoll_jahreshauptversammlung_2017_2018.pdf &>> $(MAKE_LOG)
 
 
 out/einladung_JHV18.pdf: dokumente/einladung_JHV18.tex
