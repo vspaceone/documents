@@ -1,9 +1,10 @@
 % Satzung
 % 
-% 14.Juni 2016
+% 11.September 2018
 
 Beschlossen auf der Gründungsversammlung am 14. Juni 2016 in Villingen-Schwenningen.
 
+Geändert auf der außerordentlichen Mitgliederversammlung am 24.Juli 2018.
 
 Vorbemerkung: Aus Vereinfachungsgründen und zur Vermeidung von Wortwiederholungen gelten auch für weibliche Mitglieder nach üblichem Sprachgebrauch männliche Bezeichnungen.
 
