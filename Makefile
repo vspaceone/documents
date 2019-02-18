@@ -82,6 +82,12 @@ out/finanzbericht_2017.pdf: dokumente/finanzberichte/finanzbericht_2017.tex
 	mv finanzbericht_2017.pdf ${OUTPUT_DIR}
 	@$(RM) *.aux *.log *.out
 
+out/finanzbericht_2018.pdf: dokumente/finanzberichte/finanzbericht_2018.tex
+	@$(ECHO) "\t[Latex]\tBuilding finanzbericht_2018"
+	@$(LATEX_ENGINE) dokumente/finanzberichte/finanzbericht_2018.tex -o ${OUTPUT_DIR}finanzbericht_2018.pdf &>> $(MAKE_LOG)
+	mv finanzbericht_2018.pdf ${OUTPUT_DIR}
+	@$(RM) *.aux *.log *.out
+
 clean:
 	@$(ECHO) "\t[Clean]\t*.pdf"
 	@$(RM) ${OUTPUT_DIR}*.pdf
