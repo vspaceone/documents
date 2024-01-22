@@ -49,25 +49,34 @@ Aufgrund des Fortschreitens der modernen Technologie ist das Fördern des Wissen
 1. Der Verein erhebt einen Beitrag. Das Nähere regelt eine Beitragsordnung, die von der Mitgliederversammlung beschlossen wird.
 1. Bei Erwerbsminderung kann ein verminderter Beitragssatz gemäß Beitragsordnung festgesetzt werden. Hierüber entscheidet der Vorstand.
 
-# §7 - Organe des Vereins {.unnumbered}
+# §7 - Fördermitgliedschaft {.unnumbered}
+1. Fördermitglieder können natürliche und juristische Personen, Handelsgesellschaften, nicht rechtsfähige Vereine sowie Anstalten und Körperschaften des öffentlichen Rechts werden. 
+1. Die Beitrittserklärung erfolgt schriftlich oder per E-Mail gegenüber dem Vorstand. 
+1. Über die Annahme der Beitrittserklärung und die Anforderungen der regelmäßigen Spendenbeiträge entscheidet der Vorstand. Die Fördermitgliedschaft beginnt mit der Annahme der Beitrittserklärung. 
+1. Die Fördermitgliedschaft endet durch Austrittserklärung, durch Tod von natürlichen Personen oder durch Auflösung und Erlöschen von juristischen Personen, Handelsgesellschaften, nicht rechtsfähigen Vereinen sowie Anstalten und Körperschaften des öffentlichen Rechts oder durch Ausschluss; die Beitragspflicht für das laufende Geschäftsquartal bleibt hiervon unberührt. 
+1. Der Austritt wird durch schriftliche Willenserklärung mit einer Frist von mindestens einem Monat zum Monatsende gegenüber dem Vorstand vollzogen. 
+1. Fördermitglieder haben nicht die in §4 genannten Rechte und Pflichten ordentlicher Vereinsmitglieder inne und sind bei Mitgliederversammlungen oder anderen Beschlussorganen nicht stimmberechtigt und nicht wählbar. 
+1. Fördermitglieder haben sich beim Eintritt in die Fördermitgliedschaft auf die Zahlung eines regelmäßigen Spendenbetrags zu verpflichten. Dieser Beitrag richtet sich nicht nach dem in der Beitragsordnung festgelegten Beitrag für ordentliche Mitglieder. Die Zahlpflicht beginnt mit Eintritt in die Fördermitgliedschaft und endet mit Austritt aus der Fördermitgliedschaft.
+
+# §8 - Organe des Vereins {.unnumbered}
 1. Organe des Vereins sind:
     1. der Vorstand
     1. die Mitgliederversammlung
 
-# §8 - Der Vorstand {.unnumbered}
+# §9 - Der Vorstand {.unnumbered}
 1. Der Vorstand besteht aus mindestens zwei und höchstens fünf Personen.
 1. Jedes Vorstandsmitglied ist einzelvertretungsberechtigt im Sinne des § 26 BGB bei Rechtsgeschäften bis zu einem Höchstbetrag von 500 EURO.  
 1. Bei Rechtsgeschäften über 500 EURO ist die Vertretung durch zwei Vorstandsmitglieder erforderlich. 
 1. Über die interne Aufgabenverteilung entscheidet der Vorstand die der  Mitgliederversammlung bekannt gegeben wird.
 
-# §9 - Amtsdauer des Vorstandes {.unnumbered}
+# §10 - Amtsdauer des Vorstandes {.unnumbered}
 Der Vorstand wird von der Mitgliederversammlung auf die Dauer von zwei Jahren, vom Tage der Wahl an gerechnet, gewählt. Der Vorstand bleibt jedoch bis zu seiner Austragung aus dem Vereinsregisterblatt im Amt. Jedes Vorstandsmitglied ist einzeln zu wählen. Wählbar sind nur Vereinsmitglieder. Fällt mit dem Ausscheiden eines Vorstandsmitgliedes die Anzahl der Vorstandsmitglieder unter zwei Personen, so ist unverzüglich eine außerordentliche Mitgliederversammlung einzuberufen, bei der mindestens ein neues Vorstandsmitglied gewählt werden muss.
 
-# §10 - Beschlussfassung des Vorstandes {.unnumbered}
+# §11 - Beschlussfassung des Vorstandes {.unnumbered}
 Der Vorstand fasst seine Beschlüsse im Allgemeinen in Vorstandssitzungen. Vorstandssitzungen werden schriftlich oder fernmündlich einberufen und finden mindestens quartalsmässig statt. In jedem Fall ist die Einberufungsfrist von einer Woche einzuhalten. Der Mitteilung einer Tagesordnung bedarf es nicht. Der Vorstand ist beschlussfähig, wenn mindestens zwei Vorstandsmitglieder anwesend sind. Bei der Beschlussfassung entscheidet die Mehrheit der abgegebenen gültigen Stimmen. Bei Stimmengleichheit gilt der Antrag als abgelehnt. Die Beschlüsse des Vorstandes sind zu Beweiszwecken schriftlich festzuhalten. Die Niederschrift soll Ort und Zeit der Vorstandssitzung, die Namen der Teilnehmer, die gefassten Beschlüsse und die Abstimmungsergebnisse enthalten. Ein Vorstandsbeschluss kann auf schriftlichem Wege gefasst werden, wenn alle Vorstandsmitglieder ihre Zustimmung zu der zu beschließenden Regelung erklären.
 Die Vereinigung mehrerer Vorstandsämter auf eine Person ist unzulässig.
 
-# §11 - Die Mitgliederversammlung {.unnumbered}
+# §12 - Die Mitgliederversammlung {.unnumbered}
 1. Oberstes Beschlussorgan ist die Mitgliederversammlung. Ihrer Beschlussfassung unterliegen alle in dieser Satzung oder Gesetz vorgesehenen Gegenstände, insbesondere
     1. die Genehmigung des Finanzberichtes,
     1. die Entlastung des Vorstandes,
@@ -88,7 +97,7 @@ Die Vereinigung mehrerer Vorstandsämter auf eine Person ist unzulässig.
 1. Die Mitgliederversammlung wird von einem vom Vorstand bestimmten Versammlungsleiter geleitet.
 1. Auf Antrag eines Mitglieds ist geheim abzustimmen. Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertigen, das vom Versammlungsleiter und dem Schriftführer zu unterzeichnen ist. Das Protokoll ist allen Mitgliedern zugänglich zu machen.
 
-# §12 - Auflösung des Vereins und Anfallberechtigung {.unnumbered}
+# §13 - Auflösung des Vereins und Anfallberechtigung {.unnumbered}
 1. Die Auflösung des Vereins kann nur in einer Mitgliederversammlung mit der festgelegten Stimmenmehrheit beschlossen werden.
 1. Die Mitgliederversammlung bestimmt mindestens zwei gemeinsam vertretungsberechtigte Liquidatoren. Die vorstehenden Vorschriften gelten entsprechend für den Fall, dass der Verein aus einem anderen Grund aufgelöst wird oder seine Rechtsfähigkeit verliert.
 1. Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an die Wau Holland Stiftung mit Sitz in Hamburg welche es unmittelbar und ausschließlich für gemeinnützige oder mildtätige Zwecke zu verwenden hat. Sollte diese Stiftung bei Auflösung des Vereins nicht oder nicht mehr gemeinnützig sein, fällt das Vereinsvermögen an eine andere von der Mitgliederversammlung zu bestimmende steuerbegünstigte Körperschaft, die das Vermögen zur Förderung des Wohlfahrtswesens zu verwenden hat.
@@ -135,3 +144,5 @@ Kai Sickeler (Unterschrift):
 ## Version vom 11.September 2018:  {.unnumbered}
 Änderungen von der außerordentlichen Mitgliederversammlung am 24.Juli 2018 an §2 Abs.3 sowie §3 Abs. 5.
 
+## Version vom 4. Februar 2022:  {.unnumbered}
+Änderungen von der Mitgliederversammlung am 25. Januar 2022. §7 - Fördermitgliedschaft wurde eingesetzt.

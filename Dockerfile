@@ -1,5 +1,5 @@
 
-FROM ubuntu:latest
+FROM ubuntu:bionic
 
 LABEL maintainer="github.com/djesionek"
 
@@ -10,8 +10,7 @@ RUN apt-get update && apt-get install -y \
 	biber \
 	texlive-full \
 	build-essential \
-  apt-utils \
-	locals
+  	apt-utils 
 
 RUN apt-get update && apt-get install -y \
 	ttf-ubuntu-font-family \
