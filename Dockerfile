@@ -3,6 +3,8 @@ FROM ubuntu:bionic
 
 LABEL maintainer="github.com/djesionek"
 
+ENV DEBIAN_FRONTEND noninteractive
+
 RUN apt-get update && apt-get install -y \
 	git \
 	make \
@@ -14,12 +16,12 @@ RUN apt-get update && apt-get install -y \
 
 RUN apt-get update && apt-get install -y \
 	ttf-ubuntu-font-family \
-	lmodern
+	lmodern \
+	locales
 
 RUN locale-gen de_DE.UTF-8
 ENV LANG='de_DE.UTF-8' LANGUAGE='de_DE' LC_ALL='de_DE.UTF-8'
-ENV DEBIAN_FRONTEND noninteractive
 
 RUN mkdir /build
 WORKDIR /build
-ENTRYPOINT bash build.sh
+ENTRYPOINT bash

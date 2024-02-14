@@ -34,11 +34,11 @@ all: out/satzung.pdf out/beitragsordnung.pdf out/gettingstarted.pdf out/jahresbe
 
 out/satzung.pdf: dokumente/satzung/satzung.md
 	@$(ECHO) "\t[Pandoc]\tBuilding Satzung"
-	@$(PANDOC) ${PAPER_TEMPLATE} --toc dokumente/satzung/satzung.md -o ${OUTPUT_DIR}satzung.pdf &>> $(MAKE_LOG)
+	@$(PANDOC) ${PAPER_TEMPLATE} --toc dokumente/satzung/satzung.md -o ${OUTPUT_DIR}satzung.pdf --latex-engine=${LATEX_ENGINE} &>> $(MAKE_LOG)
 
 out/beitragsordnung.pdf: dokumente/satzung/beitragsordnung.md
 	@$(ECHO)"\t[Pandoc]\tBuilding Beitragsordnung"
-	@$(PANDOC) ${PAPER_TEMPLATE} dokumente/satzung/beitragsordnung.md -o ${OUTPUT_DIR}beitragsordnung.pdf &>> $(MAKE_LOG)
+	@$(PANDOC) ${PAPER_TEMPLATE} dokumente/satzung/beitragsordnung.md -o ${OUTPUT_DIR}beitragsordnung.pdf --latex-engine=${LATEX_ENGINE} &>> $(MAKE_LOG)
 
 ################################
 # Jahresberichte

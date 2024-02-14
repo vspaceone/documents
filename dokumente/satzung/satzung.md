@@ -1,10 +1,33 @@
-% Satzung
-% 
-% 11.September 2018
+---
+title: Satzung
+date: 20.01.2024
+...
 
-Beschlossen auf der Gründungsversammlung am 14. Juni 2016 in Villingen-Schwenningen.
+# Änderungen {.unnumbered}
+## Version vom 11.September 2018:  {.unnumbered}
+Änderungen von der außerordentlichen Mitgliederversammlung am 24.Juli 2018 an §2 Abs.3 sowie §3 Abs. 5.
 
-Geändert auf der außerordentlichen Mitgliederversammlung am 24.Juli 2018.
+## Version vom 4. Februar 2022:  {.unnumbered}
+Änderungen von der Mitgliederversammlung am 25. Januar 2022: 
+
+* §7 - Fördermitgliedschaft wurde eingesetzt.
+
+## Version vom 20. Januar 2024: {.unnumbered}
+Änderungen von der Mitgliederversammlung am 20. Januar 2024:
+
+* Neuer Absatz "3." in §4 "Rechte und Pflichten der Mitglieder"
+* Neuer Absatz "4." in §4 "Rechte und Pflichten der Mitglieder"
+* "§4a - Strafgewalt des Vereins" wurde eingesetzt.
+* "§14 - Salvatorische Klausel" wurde eingesetzt.
+
+Nicht inhaltliche Änderungen im Dokument:
+
+* Entfernung des Hinweises auf Gründungsversammlung am 14. Juni 2016
+* Entfernung der Änderungshinweise
+* Entfernung der Unterschriftsfelder der Gründungsmitglieder
+* Vorziehen der Änderungshistorie auf die erste Seite
+
+\newpage
 
 Vorbemerkung: Aus Vereinfachungsgründen und zur Vermeidung von Wortwiederholungen gelten auch für weibliche Mitglieder nach üblichem Sprachgebrauch männliche Bezeichnungen.
 
@@ -40,6 +63,23 @@ Aufgrund des Fortschreitens der modernen Technologie ist das Fördern des Wissen
 # §4 - Rechte und Pflichten der Mitglieder {.unnumbered}
 1. Die Mitglieder sind berechtigt, die Leistungen des Vereins in Anspruch zu nehmen.
 1. Die Mitglieder sind verpflichtet, die satzungsgemäßen Zwecke des Vereins zu unterstützen und zu fördern. Sie sind verpflichtet, die festgesetzten Beiträge zu zahlen.
+1. Pflicht, den Verein und seine Satzung - insbesondere in den Vereinsräumlichkeiten, aber auch auf Veranstaltungen oder im Alltag in Verbindung mit dem Vereinsnamen ordnungsgemäß zu repräsentieren. \
+Als Vorbildfunktion sollten alle Mitglieder dabei die in der Satzung festgelegten Zwecke anstreben und Regeln befolgen.
+1. Pflicht, die Vereinsräumlichkeiten ordentlich und sauber zu halten. Genaueres wird durch eine jeweilige Haus- oder Raumordnung geregelt, die von der Mitgliederversammlung beschlossen wird.
+
+# §4a - Strafgewalt des Vereins {.unnumbered}
+1. Ein Mitglied kann durch Beschluss des Vorstandes bei Verstoß gegen eine oder mehrere Mitgliedspflichten aus Satzung oder den Ordnungen bestraft werden. Das gilt auch für Verstöße nach §5 Satzung, wenn der Vorstand das Strafmaß eines Ausschlusses in Anbetracht der Situation nicht für angemessen hält. \
+Der Vorstand muss dem Mitglied den Strafbeschluss in schriftlicher Form unter Angabe von Gründen mitteilen und ihm auf Verlangen eine Anhörung gewähren.
+1. Das Maß der Strafe wird vom Vorstand angemessen aus folgenden Strafen gewählt:
+    a) mündliche Ermahnung,
+    a) schriftliche Ermahnung,
+    a) Nutzungsverbot einzelner Werkzeuge oder Geräte,
+    a) zeitlich begrenzer Entzug der Zutrittsrechte zu den Vereinsräumen für den persönlichen Transponder,
+    a) Entzug aller persönlichen Schlüssel und/oder Transponder zu den Vereinsräumen unter Einbehaltung der Kaution.
+1. Gegen den Strafbeschluss des Vorstandes ist innerhalb einer Frist von zwei Monaten nach Zugang die Anrufung der Mitgliederversammlung zulässig. \
+Bis zum Beschluss der Mitgliederversammlung kann der Strafbeschluss nicht vollstreckt werden. \
+Die Mitgliederversammlung entscheidet endgültig über den Beschluss.
+
 
 # §5 - Ausschluss eines Mitglieds {.unnumbered}
 1. Ein Mitglied kann durch Beschluss des Vorstandes ausgeschlossen werden, wenn es das Ansehen des Vereins schädigt, seinen Beitragsverpflichtungen nachhaltig nicht nachkommt oder wenn ein sonstiger wichtiger Grund vorliegt. Der Vorstand muss dem auszuschließenden Mitglied den Beschluss in schriftlicher Form unter Angabe von Gründen mitteilen und ihm auf Verlangen eine Anhörung gewähren.
@@ -102,47 +142,8 @@ Die Vereinigung mehrerer Vorstandsämter auf eine Person ist unzulässig.
 1. Die Mitgliederversammlung bestimmt mindestens zwei gemeinsam vertretungsberechtigte Liquidatoren. Die vorstehenden Vorschriften gelten entsprechend für den Fall, dass der Verein aus einem anderen Grund aufgelöst wird oder seine Rechtsfähigkeit verliert.
 1. Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an die Wau Holland Stiftung mit Sitz in Hamburg welche es unmittelbar und ausschließlich für gemeinnützige oder mildtätige Zwecke zu verwenden hat. Sollte diese Stiftung bei Auflösung des Vereins nicht oder nicht mehr gemeinnützig sein, fällt das Vereinsvermögen an eine andere von der Mitgliederversammlung zu bestimmende steuerbegünstigte Körperschaft, die das Vermögen zur Förderung des Wohlfahrtswesens zu verwenden hat.
 
-Die vorstehende Satzung wurde in der Gründungsversammlung vom 14. Juni 2016 erreicht.
-
-# Gründungsmitglieder {.unnumbered}
-
-
-Nils Krause (Unterschrift):
-
-- - - 
-
-Michael Castano (Unterschrift):
-
-- - - 
-
-Alexander Votteler (Unterschrift):
-
-- - - 
-
-Philipp Jalowietzki (Unterschrift):
-
-- - - 
-
-Florian Schlegel (Unterschrift):
-
-- - - 
-
-Maximilian Burger (Unterschrift):
-
-- - - 
-
-Maximilian Noppel (Unterschrift):
-
-- - - 
-
-Kai Sickeler (Unterschrift):
-
-- - - 
-
-
-# Änderungen {.unnumbered}
-## Version vom 11.September 2018:  {.unnumbered}
-Änderungen von der außerordentlichen Mitgliederversammlung am 24.Juli 2018 an §2 Abs.3 sowie §3 Abs. 5.
-
-## Version vom 4. Februar 2022:  {.unnumbered}
-Änderungen von der Mitgliederversammlung am 25. Januar 2022. §7 - Fördermitgliedschaft wurde eingesetzt.
+# §14 - Salvatorische Klausel {.unnumbered}
+1. Sollte eine der Bestimmungen dieser Satzung ganz oder teilweise rechtswidrig oder unwirksam sein oder werden, so wird die Gültigkeit der übrigen Bestimmungen dadurch nicht berührt.
+In einem solchen Fall ist die Satzung vielmehr ihrem Sinne gemäß zur Durchführung zu bringen.
+Beruht die Ungültigkeit auf einer Leistungs- oder Zeitbestimmung, so tritt an ihrer Stelle das gesetzlich zulässige Maß.
+1. Die rechtswidrige oder unwirksame Bestimmung ist unverzüglich durch Beschluss der nächsten Mitgliederversammlung zu ersetzen.
